@@ -46,6 +46,9 @@ st.markdown("""
         border-radius: 4px;
         transition: all 0.2s ease;
     }
+    .stButton>button p {
+        color: #000000 !important;
+    }
     .stButton>button:hover {
         background-color: #e0e0e0;
         color: #000000;
