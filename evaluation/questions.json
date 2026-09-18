@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "type": "direct",
+        "question": "What is the main objective of the project?"
+    },
+    {
+        "id": 2,
+        "type": "semantic",
+        "question": "Can you summarize the primary goals discussed?"
+    },
+    {
+        "id": 3,
+        "type": "multi-chunk",
+        "question": "What are the optional features and their descriptions?"
+    },
+    {
+        "id": 4,
+        "type": "follow-up",
+        "question": "How do those features impact performance?"
+    },
+    {
+        "id": 5,
+        "type": "unsupported",
+        "question": "What is the capital of France?"
+    },
+    {
+        "id": 6,
+        "type": "multi-document",
+        "question": "Based on all documents, what is the conclusion?"
+    },
+    {
+        "id": 7,
+        "type": "direct",
+        "question": "What algorithm is used for the retrieval?"
+    },
+    {
+        "id": 8,
+        "type": "unsupported",
+        "question": "When was the CEO born?"
+    }
+]
